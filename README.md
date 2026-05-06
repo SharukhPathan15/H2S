@@ -6,7 +6,7 @@ A modern, fully responsive **hackathon landing page** built with React and Vite.
 
 ## 🌐 Live Preview
 
-> Deploy via Vercel / Netlify after running the build command below.
+> Deploy via Netlify after running the build command below.
 
 ---
 
@@ -171,6 +171,3 @@ All site content (nav links, challenges, timeline events, FAQs, rewards, partici
 
 ---
 
-## 📄 License
-
-This project was built as part of an academic assessment. All rights reserved.
