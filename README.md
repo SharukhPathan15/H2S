@@ -35,8 +35,8 @@ A modern, fully responsive **hackathon landing page** built with React and Vite.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/h2s-hackathon.git
-cd h2s-hackathon
+git clone https://github.com/your-username/H2S.git
+cd H2S
 
 # 2. Install dependencies
 npm install
